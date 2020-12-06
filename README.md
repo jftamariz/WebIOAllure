@@ -1,2 +1,4 @@
 # WebIOAllure
-WebdriverIO and Allure Automation Tests
+WebdriverIO UI Automation Tests with Allure reports
+
+
